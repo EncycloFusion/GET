@@ -1,0 +1,29 @@
+body {
+color: white;
+font-family: Tahoma,Verdana,Sans-Serif
+}
+/*Change the link colors for the side bar*/
+
+a:link {
+  color: rgb(0, 121, 194);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: rgb(0, 121, 194);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: rgb(0, 121, 194);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(0, 121, 194);
+  background-color: transparent;
+  text-decoration: underline;
+}

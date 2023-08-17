@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+  <title>Swift Mario Bros.</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico"/>
+    <script type="text/javascript">
+        function gohome() {
+            document.getElementById("contentwin").src="extpages/home.html";
+        }
+        function gommf() {
+            document.getElementById("contentwin").src="extpages/mmflist.html";
+        }
+        function gocnc() {
+            document.getElementById("contentwin").src="extpages/cnclist.html";
+        }
+    </script>
+</head>
+<body
+ style="background-position: left center; background-attachment: fixed; background-color: black; background-image: url(backdrop.png);">
+<div class="sidebar" ;=""
+ style="text-align: center; font-weight: bold; font-family: Tahoma,Verdana,Sans-Serif; color: rgb(0, 121, 194);">
+<div><img style="cursor:pointer; width: 145px; height: 126px;" onclick="gohome();" alt="EncycloFusion GET logo"
+ src="logo.png"/><br/>
+</div>
+<navbar>
+<div style="cursor:pointer;" onclick="gohome();">Home</div>
+<div style="cursor:pointer;" onclick="gommf();">Multimedia Fusion</div>
+<div style="cursor:pointer;" onclick="gocnc();">Click & Create</div>
+<div>
+    <a href="https://encyclofusion.github.io/">Back to EC</a></div>
+<div>
+    <a href="https://github.com/EncycloFusion/GET">Source</a></div>
+</navbar>
+</div>
+<iframe align="right" src="extpages/home.html" title="navigation" id="contentwin"></iframe>
+</body>
+</html>

@@ -1,0 +1,59 @@
+/* CSS */
+.sidebar {
+height: 100%;
+width: 155px;
+position: fixed;
+top: 0;
+left: 0;
+padding-top: 40px;
+background-color: black;
+}
+
+.sidebar div {
+padding: 8px;
+font-size: 24px;
+display: block;
+}
+
+.body-text {
+margin-left: 150px;
+font-size: 18px;
+}
+
+iframe {
+    width: 85%;
+    height: 45pc;
+    margin: 0 auto;
+}
+
+iframe {
+    display: block;
+    border-style:none;
+    
+/*Change the link colors for the side bar*/
+    
+}
+
+a:link {
+  color: rgb(0, 121, 194);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(0, 121, 194);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(0, 121, 194);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(0, 121, 194);
+  background-color: transparent;
+  text-decoration: none;
+}
