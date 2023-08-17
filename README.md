@@ -16,4 +16,4 @@ If you have any extensions that are not on the list, please submit a pull reques
 
 ### Unimportant Trivia
 1. At first I was thinking of whether to call this list GET or MEDE, MEDE standing for Multimedia Fusion Extension Download Environment, and making a desktop app for it called GanyMEDE.
-2. I made this HTML page for my personal page first, you can [see it here] (https://tropicalbananas.neocities.org/) or the [newer version using wordpress here] (https://tropicalbananas.altervista.org/)
+2. I made this HTML page for my personal page first, you can [see it here](https://tropicalbananas.neocities.org/) or the [newer version using wordpress here](https://tropicalbananas.altervista.org/)
